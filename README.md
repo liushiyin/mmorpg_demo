@@ -1,2 +1,2 @@
 # mmorpg
-a mmorpg game
+一个Unity制作的回合制游戏demo，包含战斗系统、背包、简单养成和一个简单的联机功能。
